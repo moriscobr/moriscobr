@@ -1,4 +1,4 @@
-I'm passionate about technology,games,comicbooks and everything in the nerdverse! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area.
+I'm passionate about technology,games,comicbooks and everything in the nerdverse! I had my first contact with computers when I was 8 years old and since then I've been discovering a little more about this wonderful area.
 
 <ul dir="auto">
         <li>
